@@ -2,6 +2,11 @@
 
 Projeto desenvolvido durante a **Imersão Front-End da Alura**, com a orientação dos instrutores **Guilherme Lima, Mayara Cardoso e Fernanda Degolin**. O objetivo foi recriar a interface inicial do **Spotify**, aplicando conceitos fundamentais e avançados de **HTML, CSS e JavaScript**, além de explorar **CSS Grid, Flexbox, responsividade e introdução a frameworks como React**.
 
+Visualização d projeto:
+
+![Visualização do Projeto](https://raw.githubusercontent.com/raquelnockelli/imersao-front-end-spotify/main/img-pag-imersao.png)
+
+
 ## 🚀 Tecnologias Utilizadas
 
 -   **HTML5** → Estruturação da página
