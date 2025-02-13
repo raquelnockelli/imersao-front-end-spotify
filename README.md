@@ -14,7 +14,6 @@ Visualização d projeto:
 -   **Flexbox & CSS Grid** → Organização de elementos na tela
 -   **JavaScript (ES6+)** → Manipulação do DOM e Promises
 -   **Node.js** → Configuração do ambiente para projetos modernos
--   **React** → Implementação do projeto utilizando um framework moderno (versão alternativa disponível no [repositório React](https://github.com/raquelnockelli/imersao-spotify-react))
 
 ## 📚 Conteúdo da Imersão
 
@@ -23,7 +22,7 @@ O projeto foi desenvolvido ao longo de **5 aulas**:
 ### 🟢 Aula 01 – Introdução ao HTML e CSS
 -   Configuração inicial no **VS Code**
 -   Revisão de **HTML, CSS e JavaScript**
--   Criação da **sidebar navigation** (menu lateral)
+-   Criação da **sidebar navigation** 
 -   Introdução a **atalhos no VS Code e DevTools**
 
 ### 🟢 Aula 02 – CSS Avançado e Layout Flexbox
@@ -46,8 +45,6 @@ O projeto foi desenvolvido ao longo de **5 aulas**:
 
 ### 🟢 Aula 05 – Introdução ao React
 - Conceitos iniciais de **React.js**
-- DESAFIO: Recriação do projeto utilizando **React**
-- O resultado do desafio estará disponivel em outro repositório  ([veja aqui](https://github.com/raquelnockelli/imersao-spotify-react))
 
 ## 🛠 Como Executar o Projeto
 

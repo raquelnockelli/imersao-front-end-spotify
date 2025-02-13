@@ -18,6 +18,11 @@ body{
     padding:16px 0 0 16px;
 }
 
+.sidebar__navigation a:hover{
+    color:  #252525;
+}
+
+
 .logo{
     background: #121212;
     display:flex;
